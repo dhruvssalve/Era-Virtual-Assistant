@@ -1,0 +1,7 @@
+pyttsx3
+datetime
+SpeechRecognition
+wikipedia
+pycopy-webbrowser
+Pillow
+tk
